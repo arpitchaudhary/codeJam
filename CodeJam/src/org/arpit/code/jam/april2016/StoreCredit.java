@@ -1,4 +1,4 @@
-package org.arpit.code.jam;
+package org.arpit.code.jam.april2016;
 
 import java.io.BufferedReader;
 import java.io.IOException;
